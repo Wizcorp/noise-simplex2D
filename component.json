@@ -1,0 +1,10 @@
+{
+	"name": "simplex2D",
+	"repo": "Wizcorp/noise-simplex2D",
+	"description": "2-dimensional Simplex Noise",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
