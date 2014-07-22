@@ -3,6 +3,9 @@
 	"repo": "Wizcorp/noise-simplex2D",
 	"description": "2-dimensional Simplex Noise",
 	"version": "0.1.0",
+	"dependencies": {
+		"Wizcorp/math-random": "0.1.0"
+	},
 	"scripts": [
 		"index.js"
 	],
